@@ -2,7 +2,7 @@
 title: Terra Pulse for Android — Privacy Policy
 ---
 
-# Terra Pulse for Android â€” Privacy Policy
+# Terra Pulse for Android — Privacy Policy
 
 *Last updated: 28 October 2026*
 
