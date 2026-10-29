@@ -1,0 +1,4 @@
+title: Terra Pulse
+description: Live earthquakes and space weather on a 3D globe.
+exclude:
+  - README.md
