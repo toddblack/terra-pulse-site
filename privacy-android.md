@@ -1,12 +1,12 @@
 ---
-title: Terra Pulse for Android — Privacy Policy
+title: Strata Pulse for Android — Privacy Policy
 ---
 
-# Terra Pulse for Android — Privacy Policy
+# Strata Pulse for Android — Privacy Policy
 
-*Last updated: 28 October 2026*
+*Last updated: 30 October 2026*
 
-Terra Pulse for Android is an app for exploring earthquakes alongside space
+Strata Pulse for Android is an app for exploring earthquakes alongside space
 weather and the Earth's magnetic field, on a 3D globe. It is built by Todd
 Black. This policy covers the Android app.
 
@@ -34,7 +34,7 @@ earthquake feed the globe shows, and only while the app is open.
 
 ## What the app sends over the internet
 
-Terra Pulse downloads public scientific data directly from the organisations
+Strata Pulse downloads public scientific data directly from the organisations
 that publish it. Each request goes straight from your phone to that
 organisation's server, never through a server run by the developer. As with
 any web request, that server can see your **IP address** and the app's name
@@ -54,7 +54,7 @@ Google's own privacy policy.
 
 ## Children
 
-Terra Pulse is a general-audience science app. It does not knowingly collect
+Strata Pulse is a general-audience science app. It does not knowingly collect
 any information from anyone, children included.
 
 ## Changes
