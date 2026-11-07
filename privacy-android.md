@@ -4,7 +4,7 @@ title: Strata Pulse for Android — Privacy Policy
 
 # Strata Pulse for Android — Privacy Policy
 
-*Last updated: 30 October 2026*
+*Last updated: 6 November 2026*
 
 Strata Pulse for Android is an app for exploring earthquakes alongside space
 weather and the Earth's magnetic field, on a 3D globe. It is built by Todd
@@ -45,6 +45,12 @@ and version. Their own privacy policies govern what they do with it.
   Space Weather Prediction Center (services.swpc.noaa.gov).
 - **The Kp index:** GFZ Helmholtz Centre for Geosciences (kp.gfz.de).
 - **Map imagery:** OpenStreetMap (tile.openstreetmap.org).
+- **Live seismometers**, only while that panel is open: the seismic data
+  centres EarthScope (rtserve.earthscope.org, service.earthscope.org), GeoNet
+  New Zealand (link.geonet.org.nz, service.geonet.org.nz), GEOFON at GFZ
+  (geofon.gfz.de) and IRIS's station catalogue (service.iris.edu). To find
+  stations, the app sends them the spot you picked on the globe. That is the
+  point you pressed, not your phone's location, which the app never reads.
 
 Links you tap (a quake's USGS page, OpenStreetMap's copyright page, Cesium's
 site) open in your browser, under that site's own policy.
