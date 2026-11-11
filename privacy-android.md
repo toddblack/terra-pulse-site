@@ -4,7 +4,7 @@ title: Strata Pulse for Android — Privacy Policy
 
 # Strata Pulse for Android — Privacy Policy
 
-*Last updated: 6 November 2026*
+*Last updated: 10 November 2026*
 
 Strata Pulse for Android is an app for exploring earthquakes alongside space
 weather and the Earth's magnetic field, on a 3D globe. It is built by Todd
@@ -26,7 +26,7 @@ Black. This policy covers the Android app.
 
 Nothing of yours. The app keeps no settings, history or location. Your layer
 choices last only while the app is open. Android's web view may cache
-downloaded map images and data files on the phone, as a browser does;
+downloaded map tiles and data files on the phone, as a browser does;
 clearing the app's storage or uninstalling it removes them.
 
 Earthquake alerts are worked out on the phone, from the same public
@@ -44,7 +44,8 @@ and version. Their own privacy policies govern what they do with it.
 - **Space weather** (aurora, ionosphere, solar wind, the Dst index): NOAA's
   Space Weather Prediction Center (services.swpc.noaa.gov).
 - **The Kp index:** GFZ Helmholtz Centre for Geosciences (kp.gfz.de).
-- **Map imagery:** OpenStreetMap (tile.openstreetmap.org).
+- **The map:** OpenFreeMap (tiles.openfreemap.org), which serves OpenStreetMap
+  data.
 - **Live seismometers**, only while that panel is open: the seismic data
   centres EarthScope (rtserve.earthscope.org, service.earthscope.org), GeoNet
   New Zealand (link.geonet.org.nz, service.geonet.org.nz), GEOFON at GFZ
@@ -52,8 +53,9 @@ and version. Their own privacy policies govern what they do with it.
   stations, the app sends them the spot you picked on the globe. That is the
   point you pressed, not your phone's location, which the app never reads.
 
-Links you tap (a quake's USGS page, OpenStreetMap's copyright page, Cesium's
-site) open in your browser, under that site's own policy.
+Links you tap (a quake's USGS page, the map's credits to OpenFreeMap,
+OpenMapTiles and OpenStreetMap, Cesium's site) open in your browser, under
+that site's own policy.
 
 Google Play, which installs and updates the app, handles data under
 Google's own privacy policy.
