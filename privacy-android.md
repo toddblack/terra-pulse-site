@@ -4,7 +4,7 @@ title: Strata Pulse for Android — Privacy Policy
 
 # Strata Pulse for Android — Privacy Policy
 
-*Last updated: 10 November 2026*
+*Last updated: 11 November 2026*
 
 Strata Pulse for Android is an app for exploring earthquakes alongside space
 weather and the Earth's magnetic field, on a 3D globe. It is built by Todd
@@ -44,8 +44,10 @@ and version. Their own privacy policies govern what they do with it.
 - **Space weather** (aurora, ionosphere, solar wind, the Dst index): NOAA's
   Space Weather Prediction Center (services.swpc.noaa.gov).
 - **The Kp index:** GFZ Helmholtz Centre for Geosciences (kp.gfz.de).
-- **The map:** OpenFreeMap (tiles.openfreemap.org), which serves OpenStreetMap
-  data.
+- **The maps:** OpenFreeMap (tiles.openfreemap.org), which serves OpenStreetMap
+  data, for the Basic map; and NOAA's National Centers for Environmental
+  Information (gis.ngdc.noaa.gov) for the Relief map. Map requests name the
+  part of the globe on screen, which is not your phone's location.
 - **Live seismometers**, only while that panel is open: the seismic data
   centres EarthScope (rtserve.earthscope.org, service.earthscope.org), GeoNet
   New Zealand (link.geonet.org.nz, service.geonet.org.nz), GEOFON at GFZ
@@ -53,9 +55,9 @@ and version. Their own privacy policies govern what they do with it.
   stations, the app sends them the spot you picked on the globe. That is the
   point you pressed, not your phone's location, which the app never reads.
 
-Links you tap (a quake's USGS page, the map's credits to OpenFreeMap,
-OpenMapTiles and OpenStreetMap, Cesium's site) open in your browser, under
-that site's own policy.
+Links you tap (a quake's USGS page, the maps' credits to OpenFreeMap,
+OpenMapTiles, OpenStreetMap and NOAA, Cesium's site) open in your browser,
+under that site's own policy.
 
 Google Play, which installs and updates the app, handles data under
 Google's own privacy policy.
