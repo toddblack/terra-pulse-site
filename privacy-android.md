@@ -4,7 +4,7 @@ title: Strata Pulse for Android — Privacy Policy
 
 # Strata Pulse for Android — Privacy Policy
 
-*Last updated: 11 November 2026*
+*Last updated: 12 November 2026*
 
 Strata Pulse for Android is an app for exploring earthquakes alongside space
 weather and the Earth's magnetic field, on a 3D globe. It is built by Todd
@@ -54,10 +54,21 @@ and version. Their own privacy policies govern what they do with it.
   (geofon.gfz.de) and IRIS's station catalogue (service.iris.edu). To find
   stations, the app sends them the spot you picked on the globe. That is the
   point you pressed, not your phone's location, which the app never reads.
+- **Volcanoes**, only while a volcano layer is switched on: the Smithsonian
+  Institution's Global Volcanism Program (webservices.volcano.si.edu) for the
+  list of volcanoes, NOAA's Aviation Weather Center (aviationweather.gov) for
+  volcanic ash advisories, and the U.S. Geological Survey (volcanoes.usgs.gov)
+  for volcano alert levels.
+- **Volcano cameras**, only while a volcano's details are open: the U.S.
+  Geological Survey (volcview.wr.usgs.gov), the Japan Meteorological Agency
+  (www.data.jma.go.jp) and GeoNet New Zealand (images.geonet.org.nz). The
+  pictures load straight from those servers.
 
 Links you tap (a quake's USGS page, the maps' credits to OpenFreeMap,
-OpenMapTiles, OpenStreetMap and NOAA, Cesium's site) open in your browser,
-under that site's own policy.
+OpenMapTiles, OpenStreetMap and NOAA, Cesium's site, a volcano's page at the
+Smithsonian, USGS volcano notices, and observatories' own camera pages,
+including USGS's YouTube channel) open in your browser, under that site's own
+policy.
 
 Google Play, which installs and updates the app, handles data under
 Google's own privacy policy.
