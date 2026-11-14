@@ -4,7 +4,7 @@ title: Strata Pulse for Android — Privacy Policy
 
 # Strata Pulse for Android — Privacy Policy
 
-*Last updated: 12 November 2026*
+*Last updated: 14 November 2026*
 
 Strata Pulse for Android is an app for exploring earthquakes alongside space
 weather and the Earth's magnetic field, on a 3D globe. It is built by Todd
@@ -63,6 +63,14 @@ and version. Their own privacy policies govern what they do with it.
   Geological Survey (volcview.wr.usgs.gov), the Japan Meteorological Agency
   (www.data.jma.go.jp) and GeoNet New Zealand (images.geonet.org.nz). The
   pictures load straight from those servers.
+- **Pictures from NASA-ISRO's NISAR satellite**, only when you open the
+  "From space" card on an earthquake or a volcano: NASA's Earthdata search
+  (cmr.earthdata.nasa.gov) to find the satellite's passes, NASA's Global
+  Imagery Browse Services (gibs.earthdata.nasa.gov) for radar pictures, and
+  the Alaska Satellite Facility (nisar.asf.earthdatacloud.nasa.gov), whose
+  pictures are delivered through Amazon CloudFront
+  (d1mv8zhcvry6x4.cloudfront.net). These requests carry the location of the
+  earthquake or volcano you opened, not your phone's location.
 
 Links you tap (a quake's USGS page, the maps' credits to OpenFreeMap,
 OpenMapTiles, OpenStreetMap and NOAA, Cesium's site, a volcano's page at the
